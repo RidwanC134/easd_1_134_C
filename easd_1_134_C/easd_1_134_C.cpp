@@ -12,7 +12,7 @@
 //    QuickSort mengurutkan data mulai dari yang terkecil sampai ke terbesar.  
 // 5. Quadratic : BubbleSort, InsertionSort, SelectionSort
 //    Loglinear : QuickSort, MergeSort, ShellSort
-// 6. Membuat sebuah program pengimplementasian SelectionSort
+// 6. Membuat sebuah program pengimplementasian SelectionSort 
 
 
 #include <iostream>
